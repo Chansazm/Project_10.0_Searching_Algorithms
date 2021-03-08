@@ -13,6 +13,6 @@ def binary_search_iterative(arr,k):
             return mid
     return -1
 
-#Driver function
+
 nums = [1,2,3,4,5,6,7,8,9]
 print(binary_search_iterative(nums,7))
